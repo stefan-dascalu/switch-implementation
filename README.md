@@ -1,5 +1,3 @@
-# 1 2  
-# Dascalu Stefan-Nicolae 331CA
 # Switch Implementation
 
 ## Task 1: MAC Learning and Forwarding
